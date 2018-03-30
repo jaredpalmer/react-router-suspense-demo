@@ -1,4 +1,4 @@
-# react-router-suspense-demo
+# React Router x React Suspense Demo
 
 
 This is React Suspense and React Router exploration that shows how you might create a routes that would take care of loading states so inner components don't have to. 
